@@ -35,6 +35,12 @@ h1{
     margin-bottom: 10px;
 }
 
+h2 { 
+    font-weight: normal; 
+}
+
+
+
 main p{
     margin-bottom: 20px;  
 }
@@ -79,7 +85,7 @@ main p{
     margin-bottom: 20px;
     text-align: center;
     text-decoration: none;
-    
+    font-weight: bold;
 }
 
 
